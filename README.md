@@ -1,1 +1,1 @@
-# FinThrivin---AI-Financial-Planner
+# FinThrivin-AI-Financial-Planner
