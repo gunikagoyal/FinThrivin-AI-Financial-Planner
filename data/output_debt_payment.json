@@ -1,0 +1,469 @@
+{
+    "User ID": 374576,
+    "Timestamp": "2024-05-29T22:05:13.620775",
+    "Total Savings": 3852.955113142765,
+    "Payment Plan": [
+        {
+            "Month": 1,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 23843.2490319,
+                "debt3.0_Car Loan_balance": 9813.97545855,
+                "debt1.0_Credit Loan_balance": 14611.063358916666
+            }
+        },
+        {
+            "Month": 2,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 22679.750349819416,
+                "debt3.0_Car Loan_balance": 9627.020794392749,
+                "debt1.0_Credit Loan_balance": 14220.506148495486
+            }
+        },
+        {
+            "Month": 3,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 21509.464592093365,
+                "debt3.0_Car Loan_balance": 9439.131356914711,
+                "debt1.0_Credit Loan_balance": 13828.321616364217
+            }
+        },
+        {
+            "Month": 4,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 20332.352167447243,
+                "debt3.0_Car Loan_balance": 9250.302472249283,
+                "debt1.0_Credit Loan_balance": 13434.502982015736
+            }
+        },
+        {
+            "Month": 5,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 19148.37325365735,
+                "debt3.0_Car Loan_balance": 9060.529443160527,
+                "debt1.0_Credit Loan_balance": 13039.043436690801
+            }
+        },
+        {
+            "Month": 6,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 17957.487796203688,
+                "debt3.0_Car Loan_balance": 8869.807548926328,
+                "debt1.0_Credit Loan_balance": 12641.936143260347
+            }
+        },
+        {
+            "Month": 7,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 16759.655506914878,
+                "debt3.0_Car Loan_balance": 8678.132045220958,
+                "debt1.0_Credit Loan_balance": 12243.174236107267
+            }
+        },
+        {
+            "Month": 8,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 15554.835862605216,
+                "debt3.0_Car Loan_balance": 8485.498163997063,
+                "debt1.0_Credit Loan_balance": 11842.750821007714
+            }
+        },
+        {
+            "Month": 9,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 14342.988103703747,
+                "debt3.0_Car Loan_balance": 8291.901113367046,
+                "debt1.0_Credit Loan_balance": 11440.658975011913
+            }
+        },
+        {
+            "Month": 10,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 13124.071232875353,
+                "debt3.0_Car Loan_balance": 8097.33607748388,
+                "debt1.0_Credit Loan_balance": 11036.891746324463
+            }
+        },
+        {
+            "Month": 11,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 11898.044013633793,
+                "debt3.0_Car Loan_balance": 7901.798216421298,
+                "debt1.0_Credit Loan_balance": 10631.44215418415
+            }
+        },
+        {
+            "Month": 12,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 10664.864968946657,
+                "debt3.0_Car Loan_balance": 7705.282666053404,
+                "debt1.0_Credit Loan_balance": 10224.30318874325
+            }
+        },
+        {
+            "Month": 13,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 9424.49237983218,
+                "debt3.0_Car Loan_balance": 7507.7845379336695,
+                "debt1.0_Credit Loan_balance": 9815.467810946348
+            }
+        },
+        {
+            "Month": 14,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 8176.8842839478675,
+                "debt3.0_Car Loan_balance": 7309.298919173337,
+                "debt1.0_Credit Loan_balance": 9404.928952408625
+            }
+        },
+        {
+            "Month": 15,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 6921.998474170897,
+                "debt3.0_Car Loan_balance": 7109.820872319203,
+                "debt1.0_Credit Loan_balance": 8992.679515293661
+            }
+        },
+        {
+            "Month": 16,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 5659.792497170227,
+                "debt3.0_Car Loan_balance": 6909.345435230798,
+                "debt1.0_Credit Loan_balance": 8578.71237219072
+            }
+        },
+        {
+            "Month": 17,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 4390.2236519703865,
+                "debt3.0_Car Loan_balance": 6707.867620956951,
+                "debt1.0_Credit Loan_balance": 8163.020365991513
+            }
+        },
+        {
+            "Month": 18,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 3113.248988506881,
+                "debt3.0_Car Loan_balance": 6505.382417611735,
+                "debt1.0_Credit Loan_balance": 7745.596309766477
+            }
+        },
+        {
+            "Month": 19,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 1828.825306173171,
+                "debt3.0_Car Loan_balance": 6301.884788249793,
+                "debt1.0_Credit Loan_balance": 7326.432986640503
+            }
+        },
+        {
+            "Month": 20,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 1295.02996,
+                "debt3.0_Car Loan_payment": 234.85029,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 800.0,
+                "debt3.0_Car Loan_extra_payment": 0.0,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 536.909152359181,
+                "debt3.0_Car Loan_balance": 6097.369670741041,
+                "debt1.0_Credit Loan_balance": 6905.523149668172
+            }
+        },
+        {
+            "Month": 21,
+            "Payment Allocation": {
+                "debt2.0_Education Loan_payment": 536.909152359181,
+                "debt3.0_Car Loan_payment": 992.971097640819,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt2.0_Education Loan_extra_payment": 41.87919235918099,
+                "debt3.0_Car Loan_extra_payment": 758.1208076408191,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt2.0_Education Loan_balance": 0.0,
+                "debt3.0_Car Loan_balance": 5129.920565965723,
+                "debt1.0_Credit Loan_balance": 6482.859521708456
+            }
+        },
+        {
+            "Month": 22,
+            "Payment Allocation": {
+                "debt3.0_Car Loan_payment": 1529.8802500000002,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt3.0_Car Loan_extra_payment": 1295.02996,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt3.0_Car Loan_balance": 3618.0405175455508,
+                "debt1.0_Credit Loan_balance": 6058.434795298907
+            }
+        },
+        {
+            "Month": 23,
+            "Payment Allocation": {
+                "debt3.0_Car Loan_payment": 1529.8802500000002,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt3.0_Car Loan_extra_payment": 1295.02996,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt3.0_Car Loan_balance": 2098.601068883278,
+                "debt1.0_Credit Loan_balance": 5632.241632529319
+            }
+        },
+        {
+            "Month": 24,
+            "Payment Allocation": {
+                "debt3.0_Car Loan_payment": 1529.8802500000002,
+                "debt1.0_Credit Loan_payment": 449.56346
+            },
+            "Extra Payments": {
+                "debt3.0_Car Loan_extra_payment": 1295.02996,
+                "debt1.0_Credit Loan_extra_payment": 0.0
+            },
+            "Loan Balances": {
+                "debt3.0_Car Loan_balance": 571.5644229776942,
+                "debt1.0_Credit Loan_balance": 5204.272664914857
+            }
+        },
+        {
+            "Month": 25,
+            "Payment Allocation": {
+                "debt3.0_Car Loan_payment": 571.5644229776942,
+                "debt1.0_Credit Loan_payment": 1407.879287022306
+            },
+            "Extra Payments": {
+                "debt3.0_Car Loan_extra_payment": 336.71413297769425,
+                "debt1.0_Credit Loan_extra_payment": 958.3158270223059
+            },
+            "Loan Balances": {
+                "debt3.0_Car Loan_balance": 0.0,
+                "debt1.0_Credit Loan_balance": 3812.21168363377
+            }
+        },
+        {
+            "Month": 26,
+            "Payment Allocation": {
+                "debt1.0_Credit Loan_payment": 1979.4437100000002
+            },
+            "Extra Payments": {
+                "debt1.0_Credit Loan_extra_payment": 1529.8802500000002
+            },
+            "Loan Balances": {
+                "debt1.0_Credit Loan_balance": 1840.4045068572439
+            }
+        },
+        {
+            "Month": 27,
+            "Payment Allocation": {
+                "debt1.0_Credit Loan_payment": 1840.4045068572439
+            },
+            "Extra Payments": {
+                "debt1.0_Credit Loan_extra_payment": 1390.8410468572438
+            },
+            "Loan Balances": {
+                "debt1.0_Credit Loan_balance": 0.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+user_id,goal_name,amount_needed,amount_saved,by_when,category
+374576,Buy a house,630000,200000,12/31/2030,long_term
+374576,Buy a car,30000,5000,06/01/2025,long_term
+374576,Travel to Niagara falls,1500,500,10/15/2024,short_term
+374576,roof repair,35000,10000,03/20/2025,short_term

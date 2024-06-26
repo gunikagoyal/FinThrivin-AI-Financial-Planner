@@ -1,0 +1,38 @@
+{
+    "current_budget": {
+        "housing": 1000,
+        "utilities": 100,
+        "groceries": 300,
+        "transportation": 150,
+        "entertainment": 200,
+        "debt_repayment": 400,
+        "savings": 300
+    },
+    "financial_overview": {
+        "total_assets": 8800,
+        "total_liabilities": 23000,
+        "monthly_income": 3000,
+        "monthly_expenses": 2700
+    },
+    "projected_income_changes": {
+        "expected_raise": 200,
+        "side_gig_income": 500
+    },
+    "upcoming_expenses": [
+        {
+            "description": "Semester tuition",
+            "amount": 2000,
+            "due_date": "2024-09-01"
+        },
+        {
+            "description": "Laptop upgrade",
+            "amount": 1200,
+            "due_date": "2024-10-15"
+        },
+        {
+            "description": "Health insurance premium",
+            "amount": 300,
+            "due_date": "2024-11-01"
+        }
+    ]
+}

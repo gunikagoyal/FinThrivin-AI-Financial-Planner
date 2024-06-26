@@ -1,0 +1,45 @@
+{
+    "financial_records": {
+        "balance_sheet": {
+            "assets": {
+                "cash": 800,
+                "investments": 2000,
+                "personal_property": 5000
+            },
+            "liabilities": {
+                "student_loans": 20000,
+                "credit_card_debt": 3000
+            }
+        },
+        "income_statement": {
+            "monthly_income": 3000,
+            "monthly_expenses": 2700
+        }
+    },
+    "transactions": [
+        {"date": "2024-05-01", "type": "income", "amount": 3000, "description": "Monthly salary from part-time job"},
+        {"date": "2024-05-03", "type": "expense", "amount": 1000, "description": "Rent for apartment"},
+        {"date": "2024-05-07", "type": "expense", "amount": 100, "description": "Utilities"},
+        {"date": "2024-05-10", "type": "expense", "amount": 300, "description": "Groceries and household items"},
+        {"date": "2024-05-15", "type": "debt_payment", "amount": 400, "description": "Student loan payment"},
+        {"date": "2024-05-20", "type": "expense", "amount": 150, "description": "Transportation pass"},
+        {"date": "2024-05-25", "type": "expense", "amount": 200, "description": "Dining out and social activities"},
+        {"date": "2024-05-30", "type": "expense", "amount": 50, "description": "Mobile phone bill"}
+    ],
+    "budget_reports": {
+        "2024": {
+            "total_income": 36000,
+            "total_expenses": 32400,
+            "savings": 3600,
+            "monthly_budget": {
+                "housing": 1000,
+                "utilities": 100,
+                "groceries": 300,
+                "transportation": 150,
+                "entertainment": 200,
+                "debt_repayment": 400,
+                "savings": 300
+            }
+        }
+    }
+}

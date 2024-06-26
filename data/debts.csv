@@ -1,0 +1,11 @@
+user_id,Debt ID,Debt_type,Loan Balance,Minimum_monthly_payment,Interest Rate,Loan Tenure,institution,Timestamp,last_updated
+374576,1,Credit Loan,15000,449.56346,0.05,36,chase bank,2024-05-30T18:53:21.076362,05-30-2024 18:53:21
+374576,2,Education Loan,25000,495.02996,0.07,60,Bank Of America,2024-05-30T17:53:21.076362,05-30-2024 18:53:21
+374576,3,Car Loan,10000,234.85029,0.06,48,Bank Of America,2024-05-30T17:53:21.076362,05-30-2024 18:53:21
+100579,,,,,,,,,
+588282,,,,,,,,,
+625454,,,,,,,,,
+679259,,,,,,,,,
+939789,,,,,,,,,
+768188,,,,,,,,,
+449160,,,,,,,,,

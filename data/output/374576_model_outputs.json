@@ -1,0 +1,206 @@
+{
+    "user_id": 374576,
+    "created_date": "",
+    "forecasting": {
+        "last_updated": "06-18-2024 14:13:39",
+        "next_month_income": "$11608.33",
+        "next_month_expense": "$2243.85"
+    },
+    "debt_payment_strategy": {
+        "last_updated": "06-07-2024 18:17:42",
+        "Total Savings": "$6071.38",
+        "Payment Plan": [
+            {
+                "Month": 1,
+                "Payment Allocation": {
+                    "debt2.0_Education Loan_payment": "$4431.48",
+                    "debt3.0_Car Loan_payment": "$234.85",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt2.0_Education Loan_extra_payment": "$3936.45",
+                    "debt3.0_Car Loan_extra_payment": "$0.00",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt2.0_Education Loan_balance": "$20688.51",
+                    "debt3.0_Car Loan_balance": "$9813.98",
+                    "debt1.0_Credit Loan_balance": "$14611.06"
+                }
+            },
+            {
+                "Month": 2,
+                "Payment Allocation": {
+                    "debt2.0_Education Loan_payment": "$4431.48",
+                    "debt3.0_Car Loan_payment": "$234.85",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt2.0_Education Loan_extra_payment": "$3936.45",
+                    "debt3.0_Car Loan_extra_payment": "$0.00",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt2.0_Education Loan_balance": "$16351.86",
+                    "debt3.0_Car Loan_balance": "$9627.02",
+                    "debt1.0_Credit Loan_balance": "$14220.51"
+                }
+            },
+            {
+                "Month": 3,
+                "Payment Allocation": {
+                    "debt2.0_Education Loan_payment": "$4431.48",
+                    "debt3.0_Car Loan_payment": "$234.85",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt2.0_Education Loan_extra_payment": "$3936.45",
+                    "debt3.0_Car Loan_extra_payment": "$0.00",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt2.0_Education Loan_balance": "$11989.92",
+                    "debt3.0_Car Loan_balance": "$9439.13",
+                    "debt1.0_Credit Loan_balance": "$13828.32"
+                }
+            },
+            {
+                "Month": 4,
+                "Payment Allocation": {
+                    "debt2.0_Education Loan_payment": "$4431.48",
+                    "debt3.0_Car Loan_payment": "$234.85",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt2.0_Education Loan_extra_payment": "$3936.45",
+                    "debt3.0_Car Loan_extra_payment": "$0.00",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt2.0_Education Loan_balance": "$7602.53",
+                    "debt3.0_Car Loan_balance": "$9250.30",
+                    "debt1.0_Credit Loan_balance": "$13434.50"
+                }
+            },
+            {
+                "Month": 5,
+                "Payment Allocation": {
+                    "debt2.0_Education Loan_payment": "$4431.48",
+                    "debt3.0_Car Loan_payment": "$234.85",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt2.0_Education Loan_extra_payment": "$3936.45",
+                    "debt3.0_Car Loan_extra_payment": "$0.00",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt2.0_Education Loan_balance": "$3189.55",
+                    "debt3.0_Car Loan_balance": "$9060.53",
+                    "debt1.0_Credit Loan_balance": "$13039.04"
+                }
+            },
+            {
+                "Month": 6,
+                "Payment Allocation": {
+                    "debt2.0_Education Loan_payment": "$3189.55",
+                    "debt3.0_Car Loan_payment": "$1476.78",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt2.0_Education Loan_extra_payment": "$2694.52",
+                    "debt3.0_Car Loan_extra_payment": "$1241.93",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt2.0_Education Loan_balance": "$0.00",
+                    "debt3.0_Car Loan_balance": "$7621.67",
+                    "debt1.0_Credit Loan_balance": "$12641.94"
+                }
+            },
+            {
+                "Month": 7,
+                "Payment Allocation": {
+                    "debt3.0_Car Loan_payment": "$4666.33",
+                    "debt1.0_Credit Loan_payment": "$449.56"
+                },
+                "Extra Payments": {
+                    "debt3.0_Car Loan_extra_payment": "$4431.48",
+                    "debt1.0_Credit Loan_extra_payment": "$0.00"
+                },
+                "Loan Balances": {
+                    "debt3.0_Car Loan_balance": "$2970.12",
+                    "debt1.0_Credit Loan_balance": "$12243.17"
+                }
+            },
+            {
+                "Month": 8,
+                "Payment Allocation": {
+                    "debt3.0_Car Loan_payment": "$2970.12",
+                    "debt1.0_Credit Loan_payment": "$2145.77"
+                },
+                "Extra Payments": {
+                    "debt3.0_Car Loan_extra_payment": "$2735.27",
+                    "debt1.0_Credit Loan_extra_payment": "$1696.21"
+                },
+                "Loan Balances": {
+                    "debt3.0_Car Loan_balance": "$0.00",
+                    "debt1.0_Credit Loan_balance": "$10139.47"
+                }
+            },
+            {
+                "Month": 9,
+                "Payment Allocation": {
+                    "debt1.0_Credit Loan_payment": "$5115.89"
+                },
+                "Extra Payments": {
+                    "debt1.0_Credit Loan_extra_payment": "$4666.33"
+                },
+                "Loan Balances": {
+                    "debt1.0_Credit Loan_balance": "$5044.51"
+                }
+            },
+            {
+                "Month": 10,
+                "Payment Allocation": {
+                    "debt1.0_Credit Loan_payment": "$5044.51"
+                },
+                "Extra Payments": {
+                    "debt1.0_Credit Loan_extra_payment": "$4594.95"
+                },
+                "Loan Balances": {
+                    "debt1.0_Credit Loan_balance": "$0.00"
+                }
+            }
+        ]
+    },
+    "debt_negotiation": {
+        "last_updated": "06-03-2024 23:49:20",
+        "recommendations": "First, let's consider the Debt Settlement strategy. Steve's total debt balance stands at approximately $45,500 across three different types of loans. Given his relatively high credit scores, this strategy might not yield significant results, but it could still be worth exploring. The main benefit of debt settlement is the potential for significantly reducing the total amount owed. However, there are also drawbacks, such as the negative impact on credit scores and potential tax consequences on forgiven amounts.\n\nNext, we have the Debt Consolidation strategy. With multiple outstanding debts and a decent credit score, consolidating Steve's debts into a single loan could simplify his payments and lower overall interest rates. This strategy is particularly beneficial when dealing with high-interest debts. However, it may extend the debt repayment period and require a good credit score for the best rates.\n\nAnother strategy to consider is Credit Counseling. Engaging with a reputable credit counseling agency could help Steve manage his debts more efficiently, providing professional advice and structured payment plans. This strategy is suitable for anyone seeking professional guidance, regardless of credit score. However, it may involve closing certain credit accounts and typically comes with a fee.\n\nLastly, we have the Debt Management Plan (DMP) strategy. Given Steve's financial situation, this strategy could be an excellent fit. A DMP is a structured repayment plan designed to help individuals manage their debts more effectively. It typically involves negotiating reduced interest rates and fees with creditors and creating a budget to make regular, affordable payments. The primary benefits of a DMP include professional advice, potential interest rate reductions, and improved creditworthiness through consistent payments.\n\nNow, let me introduce you to an emerging strategy called the Snowball Method. This strategy focuses on paying off debts in order of their balances rather than their interest rates. While it doesn't directly address interest rates, it can provide motivation and a sense of accomplishment as smaller debts are paid off, leading to increased"
+    },
+    "distribution": {
+        "last_updated": "06-18-2024 14:13:37",
+        "total_budget": 39364.48,
+        "expense": 2243.85,
+        "emergency_fund": 7872.896,
+        "short_term_goal": 25586.912,
+        "debt_payment": 3936.448,
+        "long_term_goals": 1968.224,
+        "prioritized_buckets": [
+            "Expense",
+            "Emergency Fund"
+        ],
+        "weights": {
+            "Expense": 0.2,
+            "Emergency Fund": 0.25,
+            "Short-Term Goals": 0.2,
+            "Debt Payment": 0.15,
+            "Long-Term Goals": 0.1
+        }
+    },
+    "top_spending_categories": {
+        "last_updated": "06-07-2024 18:16:05",
+        "top_spendings": "[[\"HEALTH\",5040.0],[\"HOUSING\",1200.0],[\"LEISURE\",390.0],[\"OTHER\",240.0],[\"SHOPPING\",200.0]]",
+        "recommendations": "1. Health (5040.0):\n   a) Consider high-deductible health plans (HDHPs) with a Health Savings Account (HSA). HDHPs have lower premiums but higher out-of-pocket costs. Contributions to an HSA are tax-free and grow over time. Use this account to pay for eligible medical expenses.\n   b) Shop around for prescription medications and compare prices at different pharmacies or online. Many websites offer discounted prices.\n   c) Utilize telehealth services for non-emergency appointments to save on travel costs and co-pays.\n   d) Practice preventative care by eating healthy, exercising regularly, and getting recommended screenings to avoid costly treatments later.\n\n2. Housing (1200.0):\n   a) Share housing expenses by finding a roommate or renting a smaller apartment with fewer amenities.\n   b) Negotiate rent with landlords or property management companies.\n   c) Consider moving to a more affordable area or city.\n   d) Look into government assistance programs like Section 8 Housing Choice Vouchers or Low Income Home Energy Assistance Program (LIHEAP) for additional savings.\n\n3. Leisure (390.0):\n   a) Set a monthly entertainment budget and stick to it.\n   b) Look for free or low-cost activities in your community, such as hiking trails, public parks, or library events.\n   c) Cancel unused subscriptions or memberships.\n   d) Host game nights or potlucks instead of going out to eat or attend expensive events.\n\n4. Other (240.0):\n   a) Evaluate recurring bills and cancel any unnecessary services.\n   b) Compare insurance policies and shop around for better rates.\n   c) Cook meals at home instead of ordering takeout or eating out frequently.\n   d) Use energy-efficient appliances and turn off lights when leaving a room to save on utility bills.\n\n5. Shopping (200.0):\n   a) Create a shopping list and stick to it.\n   b) Avoid impulse purchases by waiting 24 hours before making a decision.\n   c) Use cashback apps and coupons to save money on groceries and other essentials.\n   d) Shop during sales events or use price comparison websites to find the best deals.\n\nEmotional Spending:\nEmotional spending refers to purchasing items to cope with negative emotions, such as stress, anxiety, sadness, or boredom. It often leads to overspending and accumulating debt. To recognize and reduce emotional spending:\n   a) Identify triggers that lead to emotional spending.\n   b) Develop alternative coping mechanisms, such as exercise, meditation, or talking to friends and family.\n   c) Set realistic goals and prioritize needs over wants.\n   d) Practice delayed gratification by waiting a few days before making a purchase.\n\nGen-Z Specific Recommendations:\nGen-Z individuals may face unique challenges in managing their finances due to student loans, credit card debt, and high living expenses. Here are some additional recommendations:\n   a) Create a budget and track expenses using mobile apps or spreadsheets.\n   b) Pay off high-interest debt as soon as possible.\n   c) Build an emergency fund to cover unexpected expenses.\n   d) Consider income-driven student loan repayment plans or refinancing options.\n   e) Seek advice from financial advisors or credit counseling agencies if needed.</s>"
+    }
+}

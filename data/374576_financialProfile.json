@@ -1,0 +1,124 @@
+{
+    "374576": {
+        "User Details": [
+            {
+                "first_name": "Steve",
+                "last_name": "Estrada",
+                "age": 58.0,
+                "date_of_birth": "05/13/1983",
+                "profession": "Psychotherapist, dance movement",
+                "fixed_income_monthly": 5000.0,
+                "extra_income_monthly": 1000.0,
+                "created_date": "2024-05-30T18:53:21.076362",
+                "last_updated": "05-30-2024 18:53:21",
+                "net_income": 6000.0
+            }
+        ],
+        "Debts": [
+            {
+                "Debt ID": 1.0,
+                "Debt_type": "Credit Loan",
+                "Loan Balance": 15000.0,
+                "Minimum_monthly_payment": 449.56346,
+                "Interest Rate": 0.05,
+                "Loan Tenure": 36.0,
+                "institution": "chase bank",
+                "Timestamp": "2024-05-30T18:53:21.076362",
+                "last_updated": "05-30-2024 18:53:21"
+            },
+            {
+                "Debt ID": 2.0,
+                "Debt_type": "Education Loan",
+                "Loan Balance": 25000.0,
+                "Minimum_monthly_payment": 495.02996,
+                "Interest Rate": 0.07,
+                "Loan Tenure": 60.0,
+                "institution": "Bank Of America",
+                "Timestamp": "2024-05-30T17:53:21.076362",
+                "last_updated": "05-30-2024 18:53:21"
+            },
+            {
+                "Debt ID": 3.0,
+                "Debt_type": "Car Loan",
+                "Loan Balance": 10000.0,
+                "Minimum_monthly_payment": 234.85029,
+                "Interest Rate": 0.06,
+                "Loan Tenure": 48.0,
+                "institution": "Bank Of America",
+                "Timestamp": "2024-05-30T17:53:21.076362",
+                "last_updated": "05-30-2024 18:53:21"
+            }
+        ],
+        "Financial Goals": [
+            {
+                "goal_name": "Buy a house",
+                "amount_needed": 630000,
+                "amount_saved": 200000,
+                "by_when": "12/31/2030",
+                "category": "long_term"
+            },
+            {
+                "goal_name": "Buy a car",
+                "amount_needed": 30000,
+                "amount_saved": 5000,
+                "by_when": "06/01/2025",
+                "category": "short_term"
+            },
+            {
+                "goal_name": "Travel to Niagara falls",
+                "amount_needed": 25000,
+                "amount_saved": 15000,
+                "by_when": "12/01/2024",
+                "category": "short_term"
+            }
+        ],
+        "Savings Accounts": [
+            {
+                "institution": "chase bank",
+                "account_type": "savings",
+                "savings_amount": 20000.0,
+                "last_updated": "05-30-2024 18:53:21"
+            },
+            {
+                "institution": "Wellsfargo",
+                "account_type": "savings",
+                "savings_amount": 10000.0,
+                "last_updated": "05-30-2024 18:53:21"
+            }
+        ],
+        "Credit Report": {
+            "credit_scores": {
+                "Experian": 680,
+                "TransUnion": 670,
+                "Equifax": 690
+            },
+            "accounts": [
+                {
+                    "type": "Student Loan",
+                    "balance": 20000,
+                    "payment_status": "Current",
+                    "monthly_payment": 200
+                },
+                {
+                    "type": "Credit Card",
+                    "balance": 3000,
+                    "payment_status": "Current",
+                    "monthly_payment": 150
+                },
+                {
+                    "type": "Auto Loan",
+                    "balance": 15000,
+                    "payment_status": "Current",
+                    "monthly_payment": 350
+                }
+            ],
+            "hard_inquiries": 2,
+            "derogatory_marks": 0
+        },
+        "Financial Behaviors": {
+            "bill_payment_punctuality": "On Time",
+            "debt_to_income_ratio": 0.25,
+            "credit_utilization_rate": 0.3
+        }
+    }
+}

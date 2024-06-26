@@ -1,0 +1,66 @@
+generate_spending_reduction_recommendation_task:
+  description: > 
+    Take the top spending categories provided here {top_spendings}, analyze it and provide suggestions and/or tips to reduce spending across these top spending categories, including budgeting, mindful spending, emotional spending and avoiding unnecessary expenses.
+    You are a knowledgeable spending reduction recommendation expert with extensive information about helping users control their financial spending including emotional spending habits. 
+             
+    Note- {tip_section}           
+  expected_output: >
+    A nicely formatted spending recommendations.
+    - Tailored / personalized suggestions for each top expense category to reduce spending to improve savings for faster debt repayment including alternatives, cutting down frequency, and leveraging discounts etc.
+    - An explanation of emotional spending, its impact on financial health, and tips to recognize and reduce it.
+    - Practical and achievable recommendations for the user's circumstances.
+    - Advice specifically tailored for the Gen-Z population and focused on the US financial market.
+ 
+generate_debt_negotiation_recommendation_task:
+
+  description: > 
+    As DebtAdvisor, provide personalized and comprehensive debt negotiation strategies tailored for Generation Z users. Begin by analyzing the user's financial profile, including debts, income, and expenses, provided in the {user_prof_recon_debt} JSON dictionary.
+
+    [INST] Analyze the financial profile provided in the JSON dictionary, focusing on debts, income, and expenses. [/INST]
+
+    [INST] Identify applicable debt negotiation strategies from the {json_Strategies} JSON dictionary, and suggest additional strategies based on the user's unique financial circumstances. [/INST]
+
+    [INST] Present a tailored set of strategies based on user preferences (personalized, general, or a mix). Provide a default mix of strategies if not specified. Clearly explain each strategy using relatable examples and straightforward, Gen Z-friendly language. Include the benefits and drawbacks of each strategy for the user's specific situation. [/INST]
+
+    [INST] Maintain a conversational tone and adapt to any follow-up questions or additional information from the user to refine or expand the recommendations. [/INST]
+
+    Use your knowledge base to suggest further strategies and improvements based on the latest financial trends and best practices. After presenting the initial recommendations, engage with the user to determine if they have any follow-up questions or require additional clarification to ensure thorough understanding and to refine the advice given.
+
+    Note - {tip_section}
+ 
+  expected_output: > 
+    A brief summary of set of debt negotiation recommendations:
+      - Personalized strategies for the user's unique financial profile, selected from the predefined JSON dictionary and supplemented with general financial practices to optimize repayment and manage debts effectively.
+      - brief explanations of the benefits and drawbacks of each strategy, using relatable examples and Gen Z-friendly language.
+      - Practical and achievable recommendations tailored specifically to the user's financial circumstances and preferences.
+      - Focus on applicable strategies relevant to the US financial market.
+
+research_task:
+  description: >
+    Conduct a thorough and systematic investigation of the latest news, articles, and scholarly resources on {topic} using the Serper Search Tool. 
+    Ensure comprehensive and diverse coverage by leveraging all available digital tools and sources. The research should provide a detailed explanation of the principles, concepts, disciplines, and skills necessary for a visionary to achieve their goals. 
+    Document findings meticulously, highlighting key insights, trends, and relevant information to support informed decision-making.
+  expected_output: >
+    A concise overview of the research findings, highlighting the most critical insights and conclusions drawn from the gathered data.
+    Briefly reiterate the most critical findings and their implications.Suggest areas where additional investigation could be beneficial based on gaps or emerging trends noted during the research.
+
+
+Suggetion_task:
+  description: >
+    sysmatically analize the research from the {topic}, and give reasoning to the customer about the analysis and 
+    council them based on the current scenario of financial market and give very genuine advise about the step to optimise there goal.
+    decribe them the pros and cons for the advise from {topic} that you mention, make sure that your advise has some 
+    reason behind it and how it can help them.
+  expected_output: >
+    Comprehensive Financial Advisory Report:
+    1. Executive Summary: A brief overview of the analysis, highlighting key findings and recommendations.
+    **Summary**:
+        - Summarize the key points discussed in the article.
+        - Provide a list of relevant content with web addresses, headlines, and bullet points for easy reference.
+    ** 3 Key Subtopics**:
+        - Each subtopic should be a separate section with a clear heading.
+        - Use simple, everyday language and keep the explanations concise.  
+    ** Suggestted articles from the Internet to look for:
+    -collected articles from the trusted sources and there links for further study, 
+    -make sure you give some Youtube video or channel links relevent for the {topic} to gain further knowledge include the links(must).
+    

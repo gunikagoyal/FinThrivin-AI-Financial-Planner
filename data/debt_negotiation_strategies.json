@@ -1,0 +1,79 @@
+{
+  "Strategies": [
+    {
+      "Name": "Debt Settlement",
+      "Applicable Creditors": ["Credit Card Companies", "Personal Loan Providers"],
+      "Data Points": ["current_credit_score", "total_amount", "rate_of_interest", "debt_type", "fixed_income_monthly"],
+      "Suitable For": ["Credit Score Below 600", "High Debt-to-Income Ratio"],
+      "Conditions": {
+        "current_credit_score": "<600",
+        "total_amount": ">5000",
+        "rate_of_interest": "High",
+        "fixed_income_monthly": "<3000"
+      },
+      "Benefits": "Significantly reduces the total amount owed; can expedite debt relief.",
+      "Drawbacks": "May negatively impact credit score; potential tax consequences on forgiven amounts.",
+      "Recommendation Script": "Considering your credit score, a high total amount of {total_amount}, and the type of debt ({debt_type}) you have, settling your debt with {Applicable Creditors} might be a viable option. This could potentially allow you to negotiate a lesser amount than what you currently owe, with an interest rate of {rate_of_interest}."
+    },
+    {
+      "Name": "Debt Consolidation",
+      "Applicable Creditors": ["Multiple High-Interest Debts"],
+      "Data Points": ["current_credit_score", "total_amount", "rate_of_interest", "debt_type", "fixed_income_monthly"],
+      "Suitable For": ["Credit Score 600-700", "Multiple Outstanding Debts"],
+      "Conditions": {
+        "current_credit_score": "600-700",
+        "total_amount": ">10000",
+        "number_of_high_interest_debts": ">2" 
+      },
+      "Benefits": "Lowers interest rates; combines multiple debts into one payment.",
+      "Drawbacks": "May extend the debt period; requires a good credit score for the best rates.",
+      "Recommendation Script": "Consolidating your existing high-interest debts into a single loan could simplify your payments and reduce the amount of interest you pay over time. With a total amount of {total_amount} and current interest rate of {rate_of_interest}, this strategy can make your financial management more efficient."
+    },
+    {
+      "Name": "Credit Counseling",
+      "Applicable Creditors": ["Credit Card Debt", "Unsecured Loans"],
+      "Data Points": ["fixed_income_monthly", "debt_type"],
+      "Suitable For": ["Any Credit Score", "Seeking Professional Guidance"],
+      "Conditions": {
+        "fixed_income_monthly": "<3000",
+        "debt_type": "Credit Card"
+      },
+      "Benefits": "Professional advice and structured payment plans; possible interest rate reductions.",
+      "Drawbacks": "May need to close credit accounts; typically involves a fee.",
+      "Recommendation Script": "Engaging with a credit counseling service could help you manage your debts more effectively, especially considering your current monthly income of {fixed_income_monthly}, and the type of unsecured loans. Evaluating your emergency fund will provide further insights into tailoring a structured payment plan for you."
+    },
+    {
+      "Name": "Hardship Programs",
+      "Applicable Creditors": ["Banks", "Credit Unions"],
+      "Data Points": ["loan_institutions"],
+      "Suitable For": ["Temporary Financial Hardship", "Proof of Hardship Required"],
+      "Conditions": {
+        "Debt_to_Income": ">80%"
+      },
+      "Benefits": "Temporary payment relief during hardship; may prevent delinquency.",
+      "Drawbacks": "Does not reduce the principal; relief is only temporary.",
+      "Recommendation Script": "If you're experiencing temporary financial difficulties, applying for a hardship program with your creditors could reduce your monthly payments until your financial situation improves. This could provide the necessary relief."
+    },
+    {
+      "Name": "Bankruptcy",
+      "Applicable Creditors": ["All Creditors"],
+      "Data Points": ["total_amount", "fixed_income_monthly", "age"],
+      "Suitable For": ["Severe Financial Distress", "Other Strategies Ineffective"],
+      "Conditions": {
+        "total_amount": ">30000",
+        "fixed_income_monthly": "<1500",
+        "age": ">50"
+      },
+      "Benefits": "Can lead to substantial debt discharge; offers a fresh start.",
+      "Drawbacks": "Severely impacts credit for many years; public record; possible asset liquidation.",
+      "Recommendation Script": "Filing for bankruptcy might be considered as a last resort if other debt management strategies have not been effective. This can discharge most of your debts and provide a fresh start but has long-term implications for your creditworthiness. Given your total debt of {total_amount} and age over 50, this may be the most appropriate path forward."
+    },
+    {
+      "Name": "Avalanche Method",
+      "Data Points": ["total_amount", "rate_of_interest", "debt_type"],
+      "Benefits": "Targets high-interest debts first, reducing the total interest paid and the time to debt freedom.",
+      "Drawbacks": "Requires discipline and may not provide quick wins to motivate the debtor.",
+      "Recommendation Script": "It's crucial to understand your total debt amount of {total_amount} and its interest rate of {rate_of_interest}. List all your debts and focus on paying off the ones with the highest interest first to save on interest payments."
+    }
+  ]
+}

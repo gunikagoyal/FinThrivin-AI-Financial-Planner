@@ -1,0 +1,72 @@
+{
+    "creditor_info": [
+      {
+        "name": "EduLoan Corp",
+        "contact": "contact@eduloan.com",
+        "loan_type": "Student Loan",
+        "previous_negotiations": "None",
+        "current_terms": {
+          "interest_rate": 6.8,
+          "balance": 20000,
+          "monthly_payment": 200
+        }
+      },
+      {
+        "name": "Bank of Finance",
+        "contact": "support@bankoffinance.com",
+        "loan_type": "Credit Card",
+        "previous_negotiations": "Lowered interest in 2023",
+        "current_terms": {
+          "interest_rate": 22.0,
+          "balance": 3000,
+          "monthly_payment": 150
+        }
+      },
+      {
+        "name": "Auto Creditors Inc.",
+        "contact": "loans@autocreditors.com",
+        "loan_type": "Auto Loan",
+        "previous_negotiations": "Deferred payments in 2022",
+        "current_terms": {
+          "interest_rate": 5.0,
+          "balance": 15000,
+          "monthly_payment": 350
+        }
+      }
+    ],
+    "debt_info": [
+      {
+        "loan_type": "Student Loan",
+        "total_owed": 20000,
+        "current_monthly_payment": 200,
+        "interest_rate": 6.8
+      },
+      {
+        "loan_type": "Credit Card",
+        "total_owed": 3000,
+        "current_monthly_payment": 150,
+        "interest_rate": 22.0
+      },
+      {
+        "loan_type": "Auto Loan",
+        "total_owed": 15000,
+        "current_monthly_payment": 350,
+        "interest_rate": 5.0
+      }
+    ],
+    "negotiation_strategy": [
+      {
+        "loan_type": "Student Loan",
+        "strategy": "Seek interest rate reduction due to good payment history"
+      },
+      {
+        "loan_type": "Credit Card",
+        "strategy": "Negotiate lower interest rate or convert to installment plan"
+      },
+      {
+        "loan_type": "Auto Loan",
+        "strategy": "Extend loan term to reduce monthly payments"
+      }
+    ]
+  }
+  

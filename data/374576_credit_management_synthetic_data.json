@@ -1,0 +1,37 @@
+{
+    "credit_report": {
+      "credit_scores": {
+        "Experian": 680,
+        "TransUnion": 670,
+        "Equifax": 690
+      },
+      "accounts": [
+        {
+          "type": "Student Loan",
+          "balance": 20000,
+          "payment_status": "Current",
+          "monthly_payment": 200
+        },
+        {
+          "type": "Credit Card",
+          "balance": 3000,
+          "payment_status": "Current",
+          "monthly_payment": 150
+        },
+        {
+          "type": "Auto Loan",
+          "balance": 15000,
+          "payment_status": "Current",
+          "monthly_payment": 350
+        }
+      ],
+      "hard_inquiries": 2,
+      "derogatory_marks": 0
+    },
+    "financial_behaviors": {
+      "bill_payment_punctuality": "On Time",
+      "debt_to_income_ratio": 0.25,
+      "credit_utilization_rate": 0.30
+    }
+  }
+  
